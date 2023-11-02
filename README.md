@@ -5,3 +5,4 @@ Git é um sistema de controle de versões distribuído, usado principalmente no 
 * Aplicar o restore no estado staged, fará o arquivo voltar para a etapa modifid
 
 * # alguém altera o arquivo
+* usa o git fetch
