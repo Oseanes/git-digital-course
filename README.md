@@ -12,3 +12,15 @@ Git é um sistema de controle de versões distribuído, usado principalmente no 
 * `git push` -> envia o arquivo da origin para os branches;
 * `git pull` -> baixa o arquivo do branch para a máquina local. OBS: usando o 'git pull' dessa forma, a fusão dos arquivos locais com o que está sendo baixado ocorre automaticamente, caso queira analisar as alterações faça um 'git fetch';
 * `git fetch` -> faz um pull sem a fusão automática;
+
+## o que são Branch?
+Ramificação, no controle de versão e gerenciamento de configuração de software, é a duplicação de um objeto sob controle de versão. Cada objeto pode ser modificado separadamente e em paralelo para que os objetos se tornem diferentes. Nesse contexto, os objetos são chamados de branches.
+
+### Como criar uma branch?
+Por meio dos comando a seguir:
+* `git branch [nome da branch]` -> cria uma nova branch;
+* ` git log --oneline --decorate` -> Indica para qual branch o ponteiro `head` irá apontar;
+* `git checkout [nome da branch]` -> Entra para dentro de uma branch.
+
+
+
