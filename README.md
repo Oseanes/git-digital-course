@@ -1,7 +1,7 @@
 # O que é git?
 Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
 
-<img src=" img/estado-git.png" alt="Estado do do Git">
+<img src="img/estado-git.png" alt="Estado do do Git">
 
 ## Comandos Básicos introduzido no Curso
 * `git init` -> inicia um repositório git;
@@ -24,7 +24,7 @@ Por meio dos comando a seguir:
 * ` git log --oneline --decorate` -> Indica para qual branch o ponteiro `head` irá apontar;
 * `git checkout [nome da branch]` -> Entra para dentro de uma branch.
 
-  <img src=" img/branch.png" alt="Branch">
+  <img src="img/branch.png" alt="Branch">
 
 
 
